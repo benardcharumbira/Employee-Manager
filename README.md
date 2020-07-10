@@ -1,2 +1,2 @@
 # Employee-Manager
-asp.net-core employee detail manager with CRUD functionality
+asp.net-core App with CRUD functionality
